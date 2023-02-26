@@ -2,7 +2,7 @@
 
 **Help [translate](TRANSLATIONS.md) this guide!**
 
-[click](primer-mindmap.md) for README visualization in table of content form through mindmap.
+[click](primer-mindmap.html) for README visualization in table of content form through mindmap.
 
 # The System Design Primer
 
